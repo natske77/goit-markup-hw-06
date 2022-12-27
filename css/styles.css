@@ -738,6 +738,7 @@ textarea {
 }
 
 .form-field-label {
+    display: block;
     margin-bottom: 4px;
 
     font-style: normal;
@@ -750,7 +751,7 @@ textarea {
 }
 
 .text-label {
-    margin-bottom: 4px;
+    margin: 0;
 }
 
 .form-field-input {
